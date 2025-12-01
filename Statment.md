@@ -9,7 +9,8 @@ Input: student-level data (demographics, past scores, attendance, engagement met
 Output: predicted final grade (regression) and risk category (classification: Low/Medium/High risk)
 Core ML pipeline: data cleaning, feature engineering, model training, evaluation, and deployment-ready inference script
 Not covered: full production deployment (but includes a lightweight inference API scaffold)
-Target users
+ 
+ Target users
 University instructors and academic advisors
 Student support teams
 Course coordinators interested in early-warning systems
